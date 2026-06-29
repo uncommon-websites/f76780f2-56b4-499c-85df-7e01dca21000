@@ -4,10 +4,10 @@
     <!-- Newsletter -->
     <div class="flex flex-col md:flex-row justify-between items-start md:items-end border-b border-gray-200 pb-12 mb-12 gap-8">
       <div>
-        <h3 class="text-sm font-medium mb-4">Get the latest in your inbox</h3>
+        <h3 class="text-sm font-medium mb-4">Website-Tipps für B2B-SaaS direkt ins Postfach</h3>
         <div class="flex items-center gap-2">
-          <input type="email" placeholder="Sign up to our newsletter" class="bg-transparent border-b border-gray-300 py-2 w-64 focus:outline-none focus:border-black transition-colors text-sm" />
-          <button class="px-4 py-2 bg-white border border-gray-200 rounded-full text-xs uppercase tracking-wider hover:bg-gray-50 transition-colors">Subscribe</button>
+          <input type="email" placeholder="E-Mail-Adresse eingeben" class="bg-transparent border-b border-gray-300 py-2 w-64 focus:outline-none focus:border-black transition-colors text-sm" />
+          <button class="px-4 py-2 bg-white border border-gray-200 rounded-full text-xs uppercase tracking-wider hover:bg-gray-50 transition-colors">Anmelden</button>
         </div>
       </div>
     </div>
@@ -15,42 +15,42 @@
     <!-- Links Grid -->
     <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-20 text-xs leading-loose text-gray-600">
       <div>
-        <h4 class="font-medium text-black mb-4">Sunday, the helpful robotics company</h4>
+        <h4 class="font-medium text-black mb-4">Afternoon — das Website-Studio für B2B-SaaS</h4>
       </div>
       
       <div>
-        <h4 class="font-medium text-black mb-4">Explore</h4>
+        <h4 class="font-medium text-black mb-4">Leistungen</h4>
         <ul class="space-y-1">
-          <li><a href="#" class="hover:text-black">Technology</a></li>
-          <li><a href="#" class="hover:text-black">Journal</a></li>
+          <li><a href="#" class="hover:text-black">Website-Strategie</a></li>
+          <li><a href="#" class="hover:text-black">Referenzen</a></li>
         </ul>
       </div>
 
       <div>
-        <h4 class="font-medium text-black mb-4">About</h4>
+        <h4 class="font-medium text-black mb-4">Studio</h4>
         <ul class="space-y-1">
-          <li><a href="#" class="hover:text-black">Company</a></li>
-          <li><a href="#" class="hover:text-black">Careers</a></li>
-          <li><a href="#" class="hover:text-black">Beta Program</a></li>
+          <li><a href="#" class="hover:text-black">Über uns</a></li>
+          <li><a href="#" class="hover:text-black">Prozess</a></li>
+          <li><a href="#" class="hover:text-black">Projekt anfragen</a></li>
         </ul>
       </div>
 
       <div>
         <h4 class="font-medium text-black mb-4">Social</h4>
         <ul class="space-y-1">
-          <li><a href="#" class="hover:text-black">Instagram</a></li>
+          <li><a href="#" class="hover:text-black">LinkedIn</a></li>
           <li><a href="#" class="hover:text-black">X (Twitter)</a></li>
-          <li><a href="#" class="hover:text-black">YouTube</a></li>
+          <li><a href="#" class="hover:text-black">Instagram</a></li>
         </ul>
       </div>
     </div>
 
     <!-- Bottom Bar -->
     <div class="flex flex-col md:flex-row justify-between items-center py-8 text-[10px] text-gray-400 uppercase tracking-wider border-t border-gray-200">
-      <div>© 2025 Sunday Inc</div>
+      <div>© 2025 Afternoon Studio</div>
       <div class="flex gap-8 mt-4 md:mt-0">
-        <a href="#" class="hover:text-black">Terms of Service</a>
-        <a href="#" class="hover:text-black">Privacy and Cookies</a>
+        <a href="#" class="hover:text-black">Impressum</a>
+        <a href="#" class="hover:text-black">Datenschutz</a>
       </div>
     </div>
   </div>
@@ -58,11 +58,11 @@
   <!-- Yellow Banner -->
   <div class="bg-[#FCEE4F] py-12 px-4 relative overflow-hidden">
     <div class="max-w-[1400px] mx-auto flex flex-col items-center text-center gap-4 relative z-10">
-      <p class="text-xs font-medium tracking-wide">A little shade, a little shine. A perfect day to let Memo work.</p>
+      <p class="text-xs font-medium tracking-wide">Ihre Website sollte so gut sein wie Ihr Produkt. Lass uns das ändern.</p>
       <div class="flex items-center gap-4 text-[10px] uppercase tracking-wider opacity-70">
-        <span>Sunday, Dec 14</span>
-        <span>Mountain View, CA</span>
-        <span>46°F</span>
+        <span>Afternoon Studio</span>
+        <span>Berlin, DE</span>
+        <span>B2B SaaS</span>
       </div>
     </div>
     

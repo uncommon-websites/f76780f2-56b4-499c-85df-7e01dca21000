@@ -11,7 +11,7 @@
     <img src={imageSrc} {alt} class="w-full h-full object-cover aspect-video transition-transform duration-700 group-hover:scale-105" />
   {:else}
     <div class="w-full h-full aspect-video bg-gray-300 flex items-center justify-center text-gray-500">
-      {alt || 'Video Placeholder'}
+      {alt || 'Website Vorschau'}
     </div>
   {/if}
   
